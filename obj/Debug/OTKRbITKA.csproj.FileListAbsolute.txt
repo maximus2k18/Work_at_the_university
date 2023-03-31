@@ -1,0 +1,57 @@
+C:\Users\user\source\repos\OTKRbITKA\OTKRbITKA\bin\Debug\OTKRbITKA.exe.config
+C:\Users\user\source\repos\OTKRbITKA\OTKRbITKA\bin\Debug\OTKRbITKA.exe
+C:\Users\user\source\repos\OTKRbITKA\OTKRbITKA\bin\Debug\OTKRbITKA.pdb
+C:\Users\user\source\repos\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.csprojAssemblyReference.cache
+C:\Users\user\source\repos\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.Form1.resources
+C:\Users\user\source\repos\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.Properties.Resources.resources
+C:\Users\user\source\repos\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.csproj.GenerateResource.cache
+C:\Users\user\source\repos\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.exe
+C:\Users\user\source\repos\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.pdb
+C:\Users\user\source\repos\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.Form2.resources
+C:\Users\user\source\repos\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.Form3.resources
+C:\Users\user\source\repos\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.RSAcs.resources
+C:\Users\user\source\repos\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.Otkritka.resources
+C:\Users\user\source\repos\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.generator_testa.resources
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.exe
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.pdb
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.Form1.resources
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.Form2.resources
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.Form3.resources
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.Otkritka.resources
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.Properties.Resources.resources
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.csproj.GenerateResource.cache
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\bin\Debug\OTKRbITKA.exe.config
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\bin\Debug\OTKRbITKA.exe
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\bin\Debug\OTKRbITKA.pdb
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.Form4.resources
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.Form6.resources
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.Form8.resources
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\bin\Debug\TestDB.mdf
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\bin\Debug\TestDB_log.ldf
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.My_sql.resources
+C:\Users\user\source\repos\проекты VS\OTKRbITKA\OTKRbITKA\obj\Debug\OTKRbITKA.Form5.resources
+C:\Users\Max\Desktop\полибий\OTKRbITKA\bin\Debug\TestDB.mdf
+C:\Users\Max\Desktop\полибий\OTKRbITKA\bin\Debug\TestDB_log.ldf
+C:\Users\Max\Desktop\полибий\OTKRbITKA\bin\Debug\OTKRbITKA.exe.config
+C:\Users\Max\Desktop\полибий\OTKRbITKA\bin\Debug\OTKRbITKA.exe
+C:\Users\Max\Desktop\полибий\OTKRbITKA\bin\Debug\OTKRbITKA.pdb
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.Form1.resources
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.Form2.resources
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.Form3.resources
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.Form4.resources
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.Form5.resources
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.Form6.resources
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.Form8.resources
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.My_sql.resources
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.Otkritka.resources
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.Properties.Resources.resources
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.csproj.GenerateResource.cache
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.exe
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.pdb
+C:\Users\Max\Desktop\полибий\OTKRbITKA\obj\Debug\OTKRbITKA.Form9.resources
